@@ -1,0 +1,89 @@
+{
+  "project_id": "hosky",
+  "name": "Hosky",
+  "organization": "Hosky",
+  "verified": true,
+
+  "category": "defi | dex | nft | infrastructure | wallet | tooling | data | marketplace | governance | other",
+
+  "description_short": "string (max ~200 chars)",
+  "description_long": "string (markdown supported)",
+
+  "icon": "https://...",
+
+  "official_links": {
+    "website": "https://hosky.io/",
+    "x": "https://x.com/hoskytoken",
+    "discord": "https://...",
+    "telegram": "https://...",
+    "github": "https://...",
+    "docs": "https://..."
+  },
+
+  "products": [
+    {
+      "name": "Fetch",
+      "description":"Cardano DEX aggregator" ,
+      "links": {
+        "website": "https://fetch.hosky.io/",
+        "app": "https://fetch.hosky.io/",
+        "docs": "https://...",
+        "github": "https://..."
+      }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "string",
+      "url": "https://github.com/..."
+    }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+      "asset_name": "Hosky",
+      "description": "The PREMIERE low-quality s**t coin doggo meme token, exclusively on the Cardano Ecosystem. We are THE s**t, we are NOT s**t."
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "a5bb0e5bb275a573d744a021f9b3bff73595468e002755b447e01559",
+      "policy_name": "HOSKY C(ash grab)NFT",
+      "description": "HOSKY C(ash grab)NFT"
+    },
+    {
+      "policy_id": "3bc4864351b565dd028218255f55239c7c6b6f2bb238f113872fb8fa",
+      "policy_name": "HOSKY NFT",
+      "description": "HOSKY NFT"
+    }
+  ],
+
+  "scripts": [
+    {
+      "script_id": "string",
+      "script_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "drep": {
+    "drep_id": "drep1yf2jzhuc4f7eu2yay9d9ta3dykxxcwn34wz8kak7nhd7vcgrxn7ns",
+    "name": "HOSKY"
+  },
+
+  "pools": [
+    "pool1..."
+  ],
+
+  "tags": [
+    "Token",
+    "Memecoin",
+    "Quantum Hosky"
+  ],
+
+  "status": "active",
+  "launch_year": 2021
+}
