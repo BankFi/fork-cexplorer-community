@@ -1,0 +1,86 @@
+{
+  "project_id": "surge",
+  "name": "Surge",
+  "organization": "Surge",
+  "verified": true,
+
+  "category": [
+    "defi"
+  ],
+
+  "description_short": "Non-custodial market-making platform for Cardano. Automate trades. Deepen liquidity. Stay in control.",
+  "description_long": "string (markdown supported)",
+
+  "icon": "https://...",
+
+  "official_links": {
+    "website": "https://surgecardano.com/",
+    "x": "https://x.com/SurgeCardano",
+    "discord": "https://discord.com/invite/Ku5JyNbvmX",
+    "telegram": "https://...",
+    "github": "https://...",
+    "docs": "https://..."
+  },
+
+  "products": [
+    {
+      "name": "Surge",
+      "description":"Market-making platform for Cardano" ,
+      "links": {
+        "website": "https://surgecardano.com/",
+        "app": "https://app.surgecardano.com/dashboard",
+        "docs": "https://...",
+        "github": "https://..."
+      }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "string",
+      "url": "https://github.com/..."
+    }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "e992ef75f2367e6ecd93716ae88eba0d005dd91fd3a21f650b6496b55355524745",
+      "asset_name": "SURGE",
+      "description": "SURGE - Automate trades. Deepen liquidity. Stay in control."
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "",
+      "policy_name": "",
+      "description": ""
+    }
+  ],
+
+  "scripts": [
+    {
+      "script_id": "string",
+      "script_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "drep": {
+    "drep_id": "drep1...",
+    "name": "string"
+  },
+
+  "pools": [
+    "pool1..."
+  ],
+
+  "tags": [
+    "market-making",
+    "cardano",
+    "trading"
+  ],
+
+  "status": "active",
+  "launch_year": 2025
+}
