@@ -3,6 +3,7 @@
     "name": "Cardano Single Pool Alliance",
     "url": "https://singlepoolalliance.net",
     "image": null,
+    "is_multipool":false,
     "description": "The Cardano Single Pool Alliance (CSPA) is a community of independent Cardano single stake pool operators committed to decentralization.",
     "members": [
         "pool137x32lrkprphrd0aa8x4jqz98z6lc0wawlc88hdjeps4qe408ad",
