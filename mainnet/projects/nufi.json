@@ -1,7 +1,7 @@
 {
   "project_id": "nufi",
-  "name": "NuFi Wallet",
-  "organization": "NuFi",
+  "name": "NUFI Wallet",
+  "organization": "NUFI",
   "verified": true,
 
   "category": ["wallet"],
@@ -12,62 +12,26 @@
   "icon": "https://pbs.twimg.com/profile_images/1991524001290534912/gK86RkNm_400x400.png",
 
   "official_links": {
-    "website": "https://nu.fi/",
+    "website": "https://nu.fi",
     "x": "https://x.com/nufiwallet",
     "discord": "https://discord.com/invite/jSyVPAXw3w",
     "telegram": "",
-    "github": "",
+    "github": "https://github.com/nufi-official",
     "docs": "https://nufi.gitbook.io/developer-docs"
   },
 
   "products": [
     {
-      "name": "NuFi Wallet",
-      "description":"A multichain Web3 crypto wallet for Cardano, Solana, Ethereum, EVMs, SVMs and others." ,
+      "name": "NUFI Wallet",
+      "description": "A multichain Web3 crypto wallet for Cardano, Solana, Ethereum, EVMs, SVMs and others.",
       "links": {
         "website": "https://nu.fi/",
-        "app": "https://wallet.nu.fi/auth",
+        "app": "https://chromewebstore.google.com/detail/nufi/gpnihlnnodeiiaakbikldcihojploeca",
         "docs": "https://nufi.gitbook.io/developer-docs",
-        "github": ""
+        "github": "https://github.com/nufi"
       }
     }
   ],
-
-  "tracked_repositories": [
-    {
-      "name": "string",
-      "url": "https://github.com/..."
-    }
-  ],
-
-  "assets": [
-    {
-      "asset_id": "policyid+hexname",
-      "asset_name": "string",
-      "description": "string"
-    }
-  ],
-
-  "policy": [
-    {
-      "policy_id": "",
-      "policy_name": "",
-      "description": ""
-    }
-  ],
-
-  "scripts": [
-    {
-      "script_id": "string",
-      "script_name": "string",
-      "description": "string"
-    }
-  ],
-
-  "drep": {
-    "drep_id": "drep1...",
-    "name": "string"
-  },
 
   "pools": [
     "pool1qnrqc7zpwye2r9wtkayh2dryvfqs7unp99f2039duljrsaffq5c",
@@ -89,11 +53,7 @@
     "pool16hs0jxw7h6pwg3ru7rcq3yvg4csj7lhmcpj68kqem2sh5nt8mwk"
   ],
 
-  "tags": [
-    "wallet",
-    "multichain",
-    "cardano"
-  ],
+  "tags": ["wallet", "multichain", "cardano"],
 
   "status": "active",
   "launch_year": 2021
