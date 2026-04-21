@@ -1,0 +1,114 @@
+{
+  "project_id": "BlinkLabs",
+  "name": "Blink Labs",
+  "organization": "Blink Labs",
+  "verified": true,
+
+  "category": ["infrastructure","tooling"],
+
+  "description_short": "Blink Labs creates open source software and custom solutions on the Cardano blockchain.",
+  "description_long": "Blink Labs began with the idea to run a Cardano stake pool in the summer of 2021. We were operating as CloudStruct, a DevOps as a Service consulting company and launched the CloudStruct Cardano Staking pool which operated until the end of 2022. Since then, we have focused on creating open source software and custom solutions on the Cardano blockchain. Our seasoned team at Blink Labs possesses a diverse range of expertise acquired from decades of experience across a variety of industries. Our experience ranges projects of all scale, from one man solopreneurs to global-scale projects in communications, storage, cloud computing, big data analytics, and the highly regulated fields of global life science and advertising. We harness this wealth of experience to craft robust and scalable systems tailored specifically for the Cardano blockchain.\n\nOur primary mission is to deliver top-tier software and services to enhance the Cardano ecosystem, streamlining time-to-market and bolstering reliability through open source solutions. We are dedicated to building high-quality, highly available, and repeatable solutions that empower the Cardano community and contribute to the blockchain's success.",
+
+  "icon": "https://blinklabs.io/assets/icononly_nobuffer-DkjdtnNe.png",
+
+  "official_links": {
+    "website": "https://blinklabs.io",
+    "x": "https://x.com/blinklabs_io",
+    "discord": "https://discord.gg/5fPRZnX4qW",
+    "telegram": "https://...",
+    "github": "https://github.com/blinklabs-io",
+    "docs": "https://docs.blinklabs.io/home/"
+  },
+
+  "products": [
+    {
+      "name": "Dingo",
+      "description":"A Cardano blockchain node written in Go" ,
+      "links": {
+        "website": "https://blinklabs.io/projects-open-source",
+        "app": "https://...",
+        "docs": "https://docs.blinklabs.io/guides/dingo/001-dingo/",
+        "github": "https://github.com/blinklabs-io/dingo"
+      }
+    },
+    {
+      "name": "gOuroboros",
+      "description":"gOuroboros is a Go implementation of the Cardano Ouroboros network protocol and its mini-protocols, which allows for communication on the Cardano blockchain using its wire protocol. gOuroboros is the primary building block for creating tools and applications for Cardano in Go." ,
+      "links": {
+        "website": "https://blinklabs.io/projects-open-source",
+        "app": "https://...",
+        "docs": "https://docs.blinklabs.io/guides/gouroboros/001-gouroboros/",
+        "github": "https://github.com/blinklabs-io/gOuroboros"
+      }
+    },
+    {
+      "name": "Adder",
+      "description":"Adder is a tool for tailing the Cardano blockchain and emitting events for each block and transaction seen, based on user configurable filters. These events can be processed in other event-based toolchains to produce rich and reactive applications for Cardano." ,
+      "links": {
+        "website": "https://blinklabs.io/projects-open-source",
+        "app": "https://...",
+        "docs": "https://docs.blinklabs.io/guides/adder/001-adder/",
+        "github": "https://github.com/blinklabs-io/Adder"
+      }
+    },
+    {
+      "name": "Bursa",
+      "description":"A programmatic Cardano wallet, written in Go, which exposes an API, CLI, and library interface, allowing developers to easily integrate wallet functionality." ,
+      "links": {
+        "website": "https://blinklabs.io/projects-open-source",
+        "app": "https://...",
+        "docs": "https://docs.blinklabs.io/guides/bursa/001-bursa/",
+        "github": "https://github.com/blinklabs-io/bursa"
+      }
+    },
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "Blink Labs",
+      "url": "https://github.com/blinklabs-io"
+    }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "policyid+hexname",
+      "asset_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "",
+      "policy_name": "",
+      "description": ""
+    }
+  ],
+
+  "scripts": [
+    {
+      "script_id": "string",
+      "script_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "drep": {
+    "drep_id": "drep1...",
+    "name": "string"
+  },
+
+  "pools": [
+    "pool1..."
+  ],
+
+  "tags": [
+    "Dingo Node",
+    "Go",
+    "Go Node"
+  ],
+
+  "status": "active",
+  "launch_year": 2021
+}
